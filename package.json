@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "redirect-maintenance",
+  "version": "1.0.0",
+  "description": "302 redirect to the maintenance page when the origin server of `*.starry.blue` is not available.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Nep <spica@starry.blue>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

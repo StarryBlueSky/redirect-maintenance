@@ -1,0 +1,48 @@
+name = "redirect-maintenance"
+type = "javascript"
+compatibility_date = "2022-01-31"
+
+account_id = "acf825cc392e96dca126ee7e7f39e228"
+zone_id = "dc3b4dce36437ddabcc6cdcc2d1019f0"
+
+workers_dev = false
+routes = [
+    "7dtd.starry.blue/*",
+    "adguard.starry.blue/*",
+    "annict-card-dev.starry.blue/*",
+    "annict-card.starry.blue/*",
+    "asf.starry.blue/*",
+    "atmos-db.starry.blue/*",
+    "atmos-staging-db.starry.blue/*",
+    "atmos.starry.blue/*",
+    "code-7dtd.starry.blue/*",
+    "code-atmos.starry.blue/*",
+    "code-mc.starry.blue/*",
+    "code.starry.blue/*",
+    "code-wsl.starry.blue/*",
+    "dashboard.starry.blue/*",
+    "jellyfin.starry.blue/*",
+    "jupyter.starry.blue/*",
+    "karasu.starry.blue/*",
+    "kashiwa.starry.blue/*",
+    "mc.starry.blue/*",
+    "md.starry.blue/*",
+    "netdata.starry.blue/*",
+    "paste.starry.blue/*",
+    "portainer.starry.blue/*",
+    "portal.starry.blue/*",
+    "private.starry.blue/*",
+    "public.starry.blue/*",
+    "readme.starry.blue/*",
+    "samekan.starry.blue/*",
+    "scrutiny.starry.blue/*",
+    "speedtest.starry.blue/*",
+    "spica-dev.starry.blue/*",
+    "stella-public.starry.blue/*",
+    "stella.starry.blue/*",
+    "traefik.starry.blue/*",
+    "webdav.starry.blue/*",
+    "whoami.starry.blue/*",
+    "wol.starry.blue/*",
+    "www.starry.blue/*",
+]
