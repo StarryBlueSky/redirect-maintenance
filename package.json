@@ -10,6 +10,6 @@
   },
   "author": "SlashNephy <spica@starry.blue>",
   "devDependencies": {
-    "prettier": "2.6.2"
+    "prettier": "2.7.1"
   }
 }
